@@ -26,6 +26,10 @@ Detailed documentation and examples can be found at [furtive.co](http://furtive.
 
 MIT
 
+## Acknowledgements
+
+Print styles provided by h5bp: <https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css>.
+
 ## Contributing
 
 1. Fork it

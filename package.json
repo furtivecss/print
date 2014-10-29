@@ -1,0 +1,26 @@
+{
+  "name": "furtive-print",
+  "version": "0.0.1",
+  "description": "A CSS module for print styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furtivecss/furtive-print.git"
+  },
+  "keywords": [
+    "css",
+    "print",
+    "media",
+    "furtive",
+    "rework"
+  ],
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furtivecss/furtive-print/issues"
+  },
+  "homepage": "https://github.com/furtivecss/furtive-print"
+}
